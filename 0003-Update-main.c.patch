@@ -1,0 +1,26 @@
+From f71ccdccb44d9637abf24e4a39f5976da5baf587 Mon Sep 17 00:00:00 2001
+From: devops-intellipaat
+ <45280093+devops-intellipaat@users.noreply.github.com>
+Date: Tue, 8 Oct 2019 20:59:41 +0530
+Subject: [PATCH 3/3] Update main.c
+
+---
+ main.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/main.c b/main.c
+index a90fd6f..d5a4dde 100644
+--- a/main.c
++++ b/main.c
+@@ -5,7 +5,7 @@ Initial Function()
+   //Sample Code
+ }
+ 
+-Initial Function2()
++Initial Security()
+ {
+  //Sample Code
+ }
+-- 
+2.36.1.windows.1
+

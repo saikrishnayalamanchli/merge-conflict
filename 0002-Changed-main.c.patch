@@ -1,0 +1,28 @@
+From 1dd86030647b96143abfba931790df85b4417cb0 Mon Sep 17 00:00:00 2001
+From: devops-intellipaat <hemant@intellipaat.com>
+Date: Fri, 18 Jan 2019 02:32:00 +0000
+Subject: [PATCH 2/3] Changed main.c
+
+---
+ main.c | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+diff --git a/main.c b/main.c
+index 112f3bd..a90fd6f 100644
+--- a/main.c
++++ b/main.c
+@@ -5,6 +5,11 @@ Initial Function()
+   //Sample Code
+ }
+ 
++Initial Function2()
++{
++ //Sample Code
++}
++
+ 
+ 
+ }
+-- 
+2.36.1.windows.1
+
